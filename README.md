@@ -1,4 +1,4 @@
-> Dynamic To-Do List
+**Dynamic To do List**
 A simple yet interactive to-do list application built with HTML, CSS, and JavaScript.
 Table of Contents
 Features
